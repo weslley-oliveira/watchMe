@@ -18,6 +18,12 @@ body {
   font: 16px "Poppins", Arial, sans-serif;
   color: #FBFBFB;
   background: var(--background);
+
+
+  .app {
+    display: flex;
+    flex-direction: row;
+  }
 }
 
 input, textarea {
